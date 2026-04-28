@@ -1,7 +1,7 @@
 # Multiclass-Perceptron-from-Scratch
 # [Project] Multiclass Perceptron Classifier from Scratch
 
-본 프로젝트는 고려대학교 컴퓨터비전(김창수 교수님) 수업의 과제로 진행되었으며, 외부 라이브러리(Scikit-learn 등)의 도움 없이 
+본 프로젝트는 고려대학교 컴퓨터비젼(김창수 교수님) 수업의 과제로 진행되었으며, 외부 라이브러리(Scikit-learn 등)의 도움 없이 
 **NumPy만을 활용하여 다중 클래스 퍼셉트론(Multiclass Perceptron) 분류기를 처음부터 끝까지(From-scratch) 구현**한 프로젝트입니다. 
 
 ## 🎯 프로젝트 개요
